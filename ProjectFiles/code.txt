@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="Level1Task2" style="width: 430px; height: 932px; position: relative; background: white">
+        <div class="Group4" style="width: 430px; height: 932px; left: 0px; top: 0px; position: absolute">
+            <div class="Buttons" style="width: 430px; height: 86px; background: #ACACAC">
+                <div class="Group3" style="width: 113px; height: 41px; left: 25px; top: 22px; position: absolute">
+                    <div class="Rectangle1"
+                        style="width: 113px; height: 41px; left: 0px; top: 0px; position: absolute; background: #1D60E3; border-radius: 7px">
+                    </div>
+                    <div class="Button1"
+                        style="width: 81px; height: 32px; left: 16px; top: 5px; position: absolute; text-align: center; color: #FD9696; font-size: 20px; font-family: JejuHallasan; font-weight: 400; word-wrap: break-word">
+                        Button 1</div>
+                </div>
+                <div class="Group2" style="width: 113px; height: 41px; left: 158px; top: 22px; position: absolute">
+                    <div class="Rectangle2"
+                        style="width: 113px; height: 41px; left: 0px; top: 0px; position: absolute; background: #8DEB15; border-radius: 7px">
+                    </div>
+                    <div class="Button2"
+                        style="width: 88px; height: 32px; left: 12px; top: 5px; position: absolute; text-align: center; color: #801D1D; font-size: 20px; font-family: JejuHallasan; font-weight: 400; word-wrap: break-word">
+                        Button 2</div>
+                </div>
+                <div class="Group1" style="width: 113px; height: 41px; left: 291px; top: 22px; position: absolute">
+                    <div class="Rectangle3"
+                        style="width: 113px; height: 41px; left: 0px; top: 0px; position: absolute; background: #EC3232; border-radius: 7px">
+                    </div>
+                    <div class="Button3"
+                        style="width: 97px; height: 32px; left: 8px; top: 5px; position: absolute; text-align: center; color: #8FFF01; font-size: 20px; font-family: JejuHallasan; font-weight: 400; word-wrap: break-word">
+                        Button 3</div>
+                </div>
+            </div>
+            <div class="ContentArea"
+                style="width: 430px; height: 725px; background: linear-gradient(180deg, #FC955B 0%, rgba(155.34, 177.26, 255, 0.50) 50%, #5EFF65 100%)">
+                <div class="Txt"
+                    style="width: 360px; height: 432px; left: 27px; top: 110px; position: absolute; mix-blend-mode: color-burn; text-align: center; color: black; font-size: 36px; font-family: JejuHallasan; font-weight: 400; letter-spacing: 3.60px; word-wrap: break-word">
+                    Face challenges as opportunities, much like Cognifyz Technologies navigates innovation. With
+                    determination and belief in your potential, every hurdle becomes a stepping stone to success.</div>
+            </div>
+            <div class="Header" style="width: 430px; height: 121px; background: #FFE34D">
+                <div class="HeaderSection"
+                    style="width: 335px; height: 67px; left: 47px; top: 27px; position: absolute; text-align: center; color: #AE6464; font-size: 40px; font-family: JejuHallasan; font-weight: 400; word-wrap: break-word">
+                    Header Section</div>
+            </div>
+        </div>
+    </div>
+    <div class="Level1Task1" style="width: 430px; height: 932px; position: relative; background: white">
+        <div class="Group5" style="width: 339px; height: 595px; left: 46px; top: 169px; position: absolute">
+            <div class="Rectangle4"
+                style="width: 339px; height: 595px; left: 0px; top: 0px; position: absolute; background: #D0D0D0; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset; border-radius: 10px; border: 1px #CCCCCC solid">
+            </div>
+            <div class="CognifyzTechnologiesLeadsTheTechSectorDeliveringRefinedSoftwareSolutionsWithAdvancedAiMlAndDataAnalyticsToolsOurAiChatbotPlatformRedefinesCustomerSupportSeamlesslyIntegratingAcrossWebsitesSocialMediaAndMessagingAppsPioneeringMlBasedSolutionsEnableRealTimeDecisionMakingForPredictiveAnalyticsFraudDetectionAndRecommendations"
+                style="width: 318px; height: 466px; left: 9px; top: 119px; position: absolute; text-align: center; color: #482424; font-size: 20px; font-family: JetBrains Mono; font-weight: 400; word-wrap: break-word">
+                Cognifyz Technologies leads the tech sector, delivering refined software solutions with advanced AI, ML,
+                and data analytics tools. Our AI chatbot platform redefines customer support, seamlessly integrating
+                across websites, social media, and messaging apps. Pioneering ML-based solutions enable real-time
+                decision-making for predictive analytics, fraud detection, and recommendations.</div>
+            <div class="ThisIsASampleCardElement"
+                style="width: 339px; height: 103px; left: 0px; top: 0px; position: absolute; text-align: center; color: #EC1919; font-size: 40px; font-family: Gurajada; font-weight: 400; word-wrap: break-word">
+                This is a sample card element.</div>
+        </div>
+        <div class="Group6" style="width: 284px; height: 103px; left: 73px; top: 804px; position: absolute">
+            <div class="Rectangle5"
+                style="width: 284px; height: 103px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 27px; border: 2px #835555 solid">
+            </div>
+            <div class="ClickMe"
+                style="width: 251px; height: 54px; left: 17px; top: 25px; position: absolute; text-align: center; color: #FF9900; font-size: 64px; font-family: Gurajada; font-weight: 400; word-wrap: break-word">
+                Click Me !</div>
+        </div>
+        <div class="CardElement"
+            style="width: 337px; height: 92px; left: 36px; top: 42px; position: absolute; text-align: center; color: black; font-size: 32px; font-family: Aclonica; font-weight: 400; word-wrap: break-word">
+            Card Element</div>
+    </div>
+    <div class="Level2Task3" style="width: 430px; height: 932px; position: relative; background: #F8F8F8">
+        <div class="SkincareWithGlowtech"
+            style="width: 407px; left: 11px; top: 34px; position: absolute; text-align: center; color: #F80000; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+            Skincare with GlowTech</div>
+        <div class="AtGlowtechWeSpecializeInRevolutionarySkincareSolutionsThatDeliverResultsOurAdvancedProductsAreDesignedToNourishYourSkinFromWithinLeavingYouWithARadiantGlowDiscoverThePowerOfScienceBackedSkincareAndUnlockYourSkinSTruePotential"
+            style="width: 340px; left: 31px; top: 133px; position: absolute; text-align: center; color: #835C5C; font-size: 32px; font-family: ABeeZee; font-weight: 400; word-wrap: break-word">
+            At GlowTech, we specialize in revolutionary skincare solutions that deliver results. Our advanced products
+            are designed to nourish your skin from within, leaving you with a radiant glow. Discover the power of
+            science-backed skincare and unlock your skin's true potential.</div>
+        <div class="Btn" style="width: 275px; height: 95px; left: 77px; top: 747px; position: absolute">
+            <div class="Rectangle6"
+                style="width: 275px; height: 95px; left: 0px; top: 0px; position: absolute; background: #FFEF5E; border-radius: 80px">
+            </div>
+            <div class="ShopNow"
+                style="width: 179px; height: 46px; left: 48px; top: 25px; position: absolute; text-align: center; color: #BA2F2F; font-size: 32px; font-family: Aclonica; font-weight: 400; word-wrap: break-word">
+                Shop Now</div>
+        </div>
+    </div>
+    <div class="Level2Task4" style="width: 430px; height: 932px; position: relative; background: #C5C5C5">
+        <div class="WeatherIcon" style="width: 196px; height: 129px; left: 116px; top: 361px; position: absolute">
+            <div class="Ellipse1"
+                style="width: 62px; height: 66px; left: 16px; top: 0px; position: absolute; background: #FFD600; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset; border-radius: 9999px; border: 2px #FF9901 solid">
+            </div>
+            <div class="Group8" style="width: 196px; height: 106px; left: 0px; top: 23px; position: absolute">
+                <div class="Ellipse2"
+                    style="width: 102px; height: 75px; left: 94px; top: 31px; position: absolute; background: rgba(236.50, 236.50, 236.50, 0.93); border-radius: 9999px">
+                </div>
+                <div class="Ellipse3"
+                    style="width: 98px; height: 75px; left: 0px; top: 31px; position: absolute; background: rgba(236.50, 236.50, 236.50, 0.93)">
+                </div>
+                <div class="Ellipse4"
+                    style="width: 95.76px; height: 55.50px; left: 39.50px; top: 0px; position: absolute; background: rgba(236.50, 236.50, 236.50, 0.93)">
+                </div>
+                <div class="Vector1"
+                    style="width: 30.50px; height: 17px; left: 83px; top: 80px; position: absolute; background: rgba(236.50, 236.50, 236.50, 0.93); box-shadow: 4px 4px 4px; filter: blur(4px)">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="Home" style="width: 430px; height: 932px; position: relative; background: #AAA2A2">
+        <div class="HomePage"
+            style="width: 294px; height: 86px; left: 86px; top: 567px; position: absolute; color: white; font-size: 40px; font-family: Inter; font-weight: 400; word-wrap: break-word">
+            Home Page</div>
+        <div class="Component2"
+            style="height: 248.91px; left: 48px; top: 97px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 39px; display: inline-flex">
+            <div class="Home" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Home"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Home</div>
+            </div>
+            <div class="About" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="About"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    About</div>
+            </div>
+            <div class="Contact" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Contact"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Contact</div>
+            </div>
+            <div class="Services" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Services"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Services</div>
+            </div>
+        </div>
+    </div>
+    <div class="About" style="width: 430px; height: 932px; position: relative; background: #AAA2A2">
+        <div class="AboutPage"
+            style="width: 294px; height: 86px; left: 86px; top: 567px; position: absolute; color: white; font-size: 40px; font-family: Inter; font-weight: 400; word-wrap: break-word">
+            About Page</div>
+        <div class="Component2"
+            style="height: 248.91px; left: 48px; top: 97px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 39px; display: inline-flex">
+            <div class="Home" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Home"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Home</div>
+            </div>
+            <div class="About" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="About"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    About</div>
+            </div>
+            <div class="Contact" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Contact"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Contact</div>
+            </div>
+            <div class="Services" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Services"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Services</div>
+            </div>
+        </div>
+    </div>
+    <div class="Contact" style="width: 430px; height: 932px; position: relative; background: #AAA2A2">
+        <div class="ContactPage"
+            style="width: 294px; height: 86px; left: 86px; top: 567px; position: absolute; color: white; font-size: 40px; font-family: Inter; font-weight: 400; word-wrap: break-word">
+            Contact Page</div>
+        <div class="Component2"
+            style="height: 248.91px; left: 48px; top: 97px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 39px; display: inline-flex">
+            <div class="Home" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Home"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Home</div>
+            </div>
+            <div class="About" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="About"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    About</div>
+            </div>
+            <div class="Contact" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Contact"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Contact</div>
+            </div>
+            <div class="Services" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Services"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Services</div>
+            </div>
+        </div>
+    </div>
+    <div class="Services" style="width: 430px; height: 932px; position: relative; background: #AAA2A2">
+        <div class="ServicesPage"
+            style="width: 294px; height: 86px; left: 86px; top: 567px; position: absolute; color: white; font-size: 40px; font-family: Inter; font-weight: 400; word-wrap: break-word">
+            Services Page</div>
+        <div class="Component2"
+            style="height: 248.91px; left: 48px; top: 97px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 39px; display: inline-flex">
+            <div class="Home" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Home"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Home</div>
+            </div>
+            <div class="About" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="About"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    About</div>
+            </div>
+            <div class="Contact" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Contact"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Contact</div>
+            </div>
+            <div class="Services" style="width: 250px; height: 32.98px; position: relative">
+                <div class="Rectangle7"
+                    style="width: 168.22px; height: 32.98px; left: 40.89px; top: 0px; position: absolute; background: #F85757; border-radius: 11px">
+                </div>
+                <div class="Services"
+                    style="width: 250px; height: 32.32px; left: 0px; top: 0.66px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Abhaya Libre ExtraBold; font-weight: 800; word-wrap: break-word">
+                    Services</div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
